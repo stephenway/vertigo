@@ -17,7 +17,11 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "app/bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "bootcamp": "~1.1.6"
+  }
 }

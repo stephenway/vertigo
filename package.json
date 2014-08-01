@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/stephenway/vertigo/issues"
   },
-  "homepage": "https://github.com/stephenway/vertigo"
+  "homepage": "https://github.com/stephenway/vertigo",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-sass": "^0.7.2"
+  }
 }

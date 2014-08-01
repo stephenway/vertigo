@@ -1,1 +1,11 @@
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
 .sass-cache
+node_modules
+npm-debug.log
+bower_components
+app/bower_components
+test
+tests
