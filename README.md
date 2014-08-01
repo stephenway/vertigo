@@ -11,4 +11,4 @@
 
 Run `bower install --save-dev vertigo-sass` in your project directory.
 
-You will want to add `bower_components/vertigo/scss` to your sass load path, then `@import "vertigo";` in your stylesheet.
+You will want to add `bower_components/vertigo-sass/scss` to your sass load path, then `@import "vertigo";` in your stylesheet.
