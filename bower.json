@@ -1,0 +1,23 @@
+{
+  "name": "vertigo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stephenway/vertigo",
+  "authors": [
+    "Stephen Way <stephen@stephenway.net>"
+  ],
+  "description": "Enough Sass animations and effects to give you vertigo.",
+  "main": "vertigo.scss",
+  "keywords": [
+    "sass",
+    "animation",
+    "effects"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

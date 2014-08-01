@@ -1,0 +1,26 @@
+{
+  "name": "vertigo",
+  "version": "0.0.1",
+  "description": "Enough Sass animations and effects to give you vertigo.",
+  "main": "vertigo.scss",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenway/vertigo.git"
+  },
+  "keywords": [
+    "sass",
+    "animation",
+    "effects",
+    "css3",
+    "flair"
+  ],
+  "author": "Stephen Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenway/vertigo/issues"
+  },
+  "homepage": "https://github.com/stephenway/vertigo"
+}
